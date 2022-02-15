@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains three PDF files. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-804-large-scale-flow-dynamics-lab-fall-2009/745ecf86f119bbee8f10eec7d307ca10_Rossby.zip
+file: /media/courses/12-804-large-scale-flow-dynamics-lab-fall-2009/745ecf86f119bbee8f10eec7d307ca10_Rossby.zip
 file_type: application/zip
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Other
 title: Rossby.zip
 uid: 745ecf86-f119-bbee-8f10-eec7d307ca10

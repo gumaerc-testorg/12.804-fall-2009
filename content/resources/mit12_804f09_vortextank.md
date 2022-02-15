@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information related to rossby waves - tank experiment. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-804-large-scale-flow-dynamics-lab-fall-2009/c4e2551aedf02728839430bc159f73b7_MIT12_804F09_vortextank.pdf
+file: /media/courses/12-804-large-scale-flow-dynamics-lab-fall-2009/c4e2551aedf02728839430bc159f73b7_MIT12_804F09_vortextank.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: MIT12_804F09_vortextank.pdf
 uid: c4e2551a-edf0-2728-8394-30bc159f73b7
