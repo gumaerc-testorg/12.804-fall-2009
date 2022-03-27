@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Document
 title: MIT12_804F09_pv_waves_atm.pdf
 uid: 70505d33-50cc-990b-4a3c-c37ee7124c5f

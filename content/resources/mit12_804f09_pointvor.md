@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Document
 title: MIT12_804F09_pointvor.pdf
 uid: 06cc5bfe-8249-2142-1f5f-713128fdd7dd

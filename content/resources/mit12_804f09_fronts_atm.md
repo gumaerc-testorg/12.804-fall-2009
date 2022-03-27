@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Document
 title: MIT12_804F09_fronts_atm.pdf
 uid: f0dc05c3-a4ac-0a14-d4f9-09e5a1b8d1ba

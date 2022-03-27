@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Document
 title: MIT12_804F09_geostadj.pdf
 uid: 2007720d-c787-0b3b-97d0-289c990f44a4

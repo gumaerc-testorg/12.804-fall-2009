@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Other
 title: frontal.zip
 uid: 2b3ebf9b-4183-bdd4-bd7d-94a378065fb1

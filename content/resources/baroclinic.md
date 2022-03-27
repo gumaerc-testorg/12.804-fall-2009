@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Other
 title: baroclinic.zip
 uid: 670bb7c9-030c-4d7f-a8af-4f9d6eb6dcd6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Other
 title: geo_adj.zip
 uid: d34a6bf4-8dc6-9576-0b0d-02e3d1a67a06

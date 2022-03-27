@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0759439f-6ab5-fb23-ed23-2c36302e5667
 resourcetype: Document
 title: MIT12_804F09_frontdisp.pdf
 uid: d91d6675-b150-33ad-6352-cb0bc0ed775c

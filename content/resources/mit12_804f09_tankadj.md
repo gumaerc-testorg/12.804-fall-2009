@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0759439f-6ab5-fb23-ed23-2c36302e5667
 resourcetype: Document
 title: MIT12_804F09_tankadj.pdf
 uid: 5f3e9b62-9bd5-29a3-c398-1b5922329902

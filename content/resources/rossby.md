@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c07d950-bf18-5705-250a-f682bbf40565
 resourcetype: Other
 title: Rossby.zip
 uid: 745ecf86-f119-bbee-8f10-eec7d307ca10
