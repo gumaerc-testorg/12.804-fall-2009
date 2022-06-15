@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -87,7 +88,7 @@ Radial inflow (tank)
 **Geostrophic adjustment**
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/geo_adj))
+({{% resource_link d34a6bf4-8dc6-9576-0b0d-02e3d1a67a06 "ZIP" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Gulf Stream geostrophy (ocean)
 Geostrophic adjustment (atmosphere)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_fronts_atm))
+({{% resource_link f0dc05c3-a4ac-0a14-d4f9-09e5a1b8d1ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +115,7 @@ Geostrophic adjustment (atmosphere)
 Geostrophic adjustment (tank)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_geotank))
+({{% resource_link 0bd06232-c8fb-e7ce-486a-0bb5acbad796 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ Geostrophic adjustment (tank)
 Geostrophic adjustment (numerical)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_geostadj))
+({{% resource_link 2007720d-c787-0b3b-97d0-289c990f44a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Geostrophic adjustment (numerical)
 **Vortex interaction**
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/vortex))
+({{% resource_link ef8c5554-f087-6604-994c-e61bae46ac24 "ZIP" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +142,7 @@ Geostrophic adjustment (numerical)
 Point vortices (numerical)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_pointvor))
+({{% resource_link 06cc5bfe-8249-2142-1f5f-713128fdd7dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +151,7 @@ Point vortices (numerical)
 Vortex interactions (atmosphere)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_vtx_inter_atm))
+({{% resource_link 51c182ff-f32b-501f-48b6-ef545c7d4cbd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ Vortex interactions (atmosphere)
 Vortex interactions (tank)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_vortextank))
+({{% resource_link c4e2551a-edf0-2728-8394-30bc159f73b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +169,7 @@ Vortex interactions (tank)
 **Rossby waves**
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/rossby))
+({{% resource_link 745ecf86-f119-bbee-8f10-eec7d307ca10 "ZIP" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +178,7 @@ Vortex interactions (tank)
 Rossby waves, barotropic PV inversion (numerical)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_qg1))
+({{% resource_link 54f16584-098a-6a7f-e392-3586a154b4ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +187,7 @@ Rossby waves, barotropic PV inversion (numerical)
 Rossby waves (tank)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_lab))
+({{% resource_link a547fcc1-219f-6d18-585a-dede13044916 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +196,7 @@ Rossby waves (tank)
 Rossby waves (ocean)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_rw))
+({{% resource_link 88700537-1729-e8d1-4753-f0894cc0a126 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +205,7 @@ Rossby waves (ocean)
 **Frontal waves**
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/frontal))
+({{% resource_link 2b3ebf9b-4183-bdd4-bd7d-94a378065fb1 "ZIP" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +214,7 @@ Rossby waves (ocean)
 Isentropic potential vorticity, tropopause maps, and frontal waves (atmosphere)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_pv_waves_atm))
+({{% resource_link 70505d33-50cc-990b-4a3c-c37ee7124c5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +223,7 @@ Isentropic potential vorticity, tropopause maps, and frontal waves (atmosphere)
 Frontal waves (ocean)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_gstr1))
+({{% resource_link f33ee7d3-6984-05f8-765f-578a2aac4591 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +232,7 @@ Frontal waves (ocean)
 Frontal waves (numerical)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_gstr1))
+({{% resource_link f33ee7d3-6984-05f8-765f-578a2aac4591 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +241,7 @@ Frontal waves (numerical)
 Frontal waves (tank)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_frontaltank))
+({{% resource_link ab1991f7-2768-93d9-a8dd-d9bfba31b156 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +277,7 @@ Waves on gulf stream front
 **Baroclinic instability**
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/baroclinic))
+({{% resource_link 670bb7c9-030c-4d7f-a8af-4f9d6eb6dcd6 "ZIP" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +295,7 @@ Higher order balance -- 3D PV inversion (atmosphere)
 Two layer PV inversion/baroclinic evolution and instability (numerical)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_qg2))
+({{% resource_link 00a81add-c373-dafd-6a6c-7f56de9a493f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +304,7 @@ Two layer PV inversion/baroclinic evolution and instability (numerical)
 Baroclinic instability (tank)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_804f09_tank2))
+({{% resource_link cffd65f0-55c2-b054-dc2a-370fe208250f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
