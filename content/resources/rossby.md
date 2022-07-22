@@ -5,6 +5,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/745ecf86f119bbee8f
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Rossby.zip
 uid: 745ecf86-f119-bbee-8f10-eec7d307ca10
 ---
 This resource contains three PDF files. 
-

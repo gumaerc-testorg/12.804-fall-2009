@@ -5,6 +5,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/ef8c5554f087660499
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vortex.zip
 uid: ef8c5554-f087-6604-994c-e61bae46ac24
 ---
 This resource contains three PDF files. 
-

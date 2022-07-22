@@ -5,6 +5,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/670bb7c9030c4d7fa8
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: baroclinic.zip
 uid: 670bb7c9-030c-4d7f-a8af-4f9d6eb6dcd6
 ---
 This resource contains two PDF files. 
-

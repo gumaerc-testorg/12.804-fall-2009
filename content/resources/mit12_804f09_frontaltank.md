@@ -5,6 +5,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/ab1991f7276893d9a8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,5 +15,3 @@ title: MIT12_804F09_frontaltank.pdf
 uid: ab1991f7-2768-93d9-a8dd-d9bfba31b156
 ---
 This resource contains information related to frontal waves. 
-
-

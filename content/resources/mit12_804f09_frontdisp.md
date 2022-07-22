@@ -6,6 +6,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/d91d6675b15033ad63
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT12_804F09_frontdisp.pdf
 uid: d91d6675-b150-33ad-6352-cb0bc0ed775c
 ---
 This resource contains information related to PV fronts: dispersion relations. 
-

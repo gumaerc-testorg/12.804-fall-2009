@@ -5,6 +5,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/06cc5bfe824921421f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_804F09_pointvor.pdf
 uid: 06cc5bfe-8249-2142-1f5f-713128fdd7dd
 ---
 This resource contains information related to point vortices. 
-

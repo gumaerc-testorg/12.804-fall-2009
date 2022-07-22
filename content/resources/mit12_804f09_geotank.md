@@ -6,6 +6,7 @@ file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/0bd06232c8fbe7ce48
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT12_804F09_geotank.pdf
 uid: 0bd06232-c8fb-e7ce-486a-0bb5acbad796
 ---
 This resource contains information related to geostrophic adjustment - tank experiments. 
-
