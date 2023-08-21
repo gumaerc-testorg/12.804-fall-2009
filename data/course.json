@@ -54,7 +54,9 @@
     "content": "3b6cc3d6-85df-e822-7116-69f028815bde",
     "website": "12-804-large-scale-flow-dynamics-lab-fall-2009"
   },
-  "learning_resource_types": [],
-  "site_uid": "691e5f62-4b5e-4add-9f8a-d1ac34cc15d7",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "f7c68a8d-f723-49ec-87b5-e467e016b630",
   "title": "Course Metadata"
 }
