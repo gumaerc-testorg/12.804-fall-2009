@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains three PDF files. '
 file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/ef8c5554f0876604994ce61bae46ac24_vortex.zip
+file_size: 412214
 file_type: application/zip
 learning_resource_types:
 - Projects
