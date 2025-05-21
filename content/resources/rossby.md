@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains three PDF files. '
-file: /ol-ocw-studio-app/courses/12-804-large-scale-flow-dynamics-lab-fall-2009/745ecf86f119bbee8f10eec7d307ca10_Rossby.zip
+file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/745ecf86f119bbee8f10eec7d307ca10_Rossby.zip
 file_size: 69696
 file_type: application/zip
 learning_resource_types:
