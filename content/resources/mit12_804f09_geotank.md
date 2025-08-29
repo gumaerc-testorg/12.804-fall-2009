@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to geostrophic adjustment
   - tank experiments. '
-file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/0bd06232c8fbe7ce486a0bb5acbad796_MIT12_804F09_geotank.pdf
+file: /ol-ocw-studio-app/courses/12-804-large-scale-flow-dynamics-lab-fall-2009/0bd06232c8fbe7ce486a0bb5acbad796_MIT12_804F09_geotank.pdf
 file_size: 62083
 file_type: application/pdf
 learning_resource_types:
