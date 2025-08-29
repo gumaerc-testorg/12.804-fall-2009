@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains information related to frontal waves. \r\n"
-file: /courses/12-804-large-scale-flow-dynamics-lab-fall-2009/ab1991f7276893d9a8ddd9bfba31b156_MIT12_804F09_frontaltank.pdf
+file: /ol-ocw-studio-app/courses/12-804-large-scale-flow-dynamics-lab-fall-2009/ab1991f7276893d9a8ddd9bfba31b156_MIT12_804F09_frontaltank.pdf
 file_size: 52245
 file_type: application/pdf
 learning_resource_types:
